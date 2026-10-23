@@ -48,6 +48,7 @@
         "region": "all"
       }
     ],
-    "retailer_listings": []
+    "retailer_listings": [
+  { ... }
   }
 }
